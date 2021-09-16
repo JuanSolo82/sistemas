@@ -1,0 +1,21 @@
+mat-sidenav-container{
+    height: 100%;
+}
+
+mat-sidenav, mat-sidenav-content{
+    padding: 15px;
+    background-color: silver;
+}
+
+mat-sidenav {
+    background-color: lightblue;
+}
+
+a:hover {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
